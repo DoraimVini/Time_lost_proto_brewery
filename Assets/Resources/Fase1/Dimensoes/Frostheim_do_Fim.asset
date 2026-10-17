@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79c7aaa9b621b0641b80700c46766917, type: 3}
+  m_Name: Frostheim_do_Fim
+  m_EditorClassIdentifier: TLPB.Core::TLPB.Core.Dimensoes.DimensaoData
+  nomeExibicao: Frostheim do Fim
+  tier: 1
+  nota: "Simples, tolerante \u2014 abre o ritmo."
+  tagsPreferidas: 0100000007000000
+  postura: 0
+  poolClientes:
+  - {fileID: 11400000, guid: e07d0b0a01d72d84c9dc06a0898e6105, type: 2}
+  - {fileID: 11400000, guid: 0f7829790bd969f4295bf43d5b33e836, type: 2}
+  - {fileID: 11400000, guid: 9525279494f6763418780bbe43b373ef, type: 2}
+  - {fileID: 11400000, guid: 5723a47b13ba6fc46bc10baf169fa813, type: 2}
+  - {fileID: 11400000, guid: 0d7b7018ac915204a86e3cee7e5b1c9c, type: 2}
+  - {fileID: 11400000, guid: f984d5faf277e1044ab80c157336a13c, type: 2}
+  - {fileID: 11400000, guid: 9c26d2ba0a759a442b3dc8507edf1f92, type: 2}
+  - {fileID: 11400000, guid: 6f190793737941f4b88688f10f5fbecf, type: 2}
+  quaseBoss: {fileID: 11400000, guid: 76e81870fcb10a8428f064fd86ddfb3e, type: 2}
+  limiarCaosQuaseBoss: 0.4

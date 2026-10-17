@@ -1,0 +1,18 @@
+{
+    "name": "TLPB.Editor",
+    "rootNamespace": "TLPB.Editor",
+    "references": [
+        "TLPB.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

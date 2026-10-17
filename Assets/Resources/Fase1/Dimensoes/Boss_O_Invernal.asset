@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da9c9064769e85241aef16f180e41227, type: 3}
+  m_Name: Boss_O_Invernal
+  m_EditorClassIdentifier: TLPB.Core::TLPB.Core.Dimensoes.ClienteData
+  nomeExibicao: O Invernal (teste)
+  dimensao: {fileID: 11400000, guid: a68cff613f9fcfb41900d0a76180369e, type: 2}
+  barras:
+  - categoria: 0
+    alvo: 3
+  - categoria: 2
+    alvo: 2
+  paciencia: 5
+  tagPreferida: 7
+  multifasico: 1
+  barrasFase2:
+  - categoria: 1
+    alvo: 2
+  - categoria: 2
+    alvo: 2
+  - categoria: 3
+    alvo: 1
+  recompensaOuro: 10
+  recompensaFavor: 0
+  recompensaIngrediente: 0
+  recompensaCaos: 0
+  chanceCartaTematica: 0
+  penalidadeCaos: 1
+  turnosBloqueioMesa: 1
